@@ -42,4 +42,5 @@ You can easily modify the program to:
 - Alter the counter message format in the `actionPerformed` method
 
 ## Screenshot
-[Insert URL Here]
+<img width="186" height="128" alt="Screenshot 2025-07-26 at 3 24 33 PM" src="https://github.com/user-attachments/assets/96a840d7-7d73-4fc4-aa81-cda0ebc28510" />
+
